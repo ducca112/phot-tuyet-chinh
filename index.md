@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+# Tuyết Chinh (Nguyễn Thị Tuyết Chinh - Tam Sơn Sông Lô Vĩnh Phúc) mày hơi mât dạy
+## Tao Tha cho mày 1 lần chán chán tao lại up lại tao có đầy đủ thông tin của mày.
 
 You can use the [editor on GitHub](https://github.com/ducca112/phot-tuyet-chinh/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
